@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [wp-graphql-wordpress](https://github.com/moonmeister/wp-graphql-seopress)
 
-- 📝 I sometimes write articles on [randomcpu.com](randomcpu.com)
+- 📝 I sometimes write articles on [randomcpu.com](https://randomcpu.com)
 
 - 💬 Ask me about **Linux**
 
